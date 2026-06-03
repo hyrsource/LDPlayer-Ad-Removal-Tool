@@ -14,7 +14,7 @@ This tool is 100% open-source. The `.bat` script does not contain any compiled c
 
 ## 🚀 How to Use
 
-1. **Download** the `LDPlayer-Ad-Blocker.bat` file from the Releases section.
+1. **Download** the `LDPlayer-Ad-Removal-Tool.bat` file from the Releases section.
 2. Close LDPlayer completely.
 3. Right-click on the `.bat` file and select **"Run as administrator"** (required to edit Windows Hosts and modify folder permissions).
 4. Wait for the green success message: `[✓] Operation Complete`.
