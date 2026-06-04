@@ -1,5 +1,6 @@
 # LDPlayer Ad-Removal Tool 🚀
 
+[![VirusTotal Clean](https://shields.io)](https://www.virustotal.com/gui/file/03299850d732ed4c761112167e3cd8b886d267dd2d3d06ffa31e538925f537ba)
 A lightweight, automated Windows Batch script designed to completely strip built-in advertisements from the LDPlayer emulator using advanced local Data Poisoning and NTFS directory hardening. It prevents the emulator from saving or rendering startup splash screens, sidebar promotions, and dynamic ad recommendation grids.
 
 ## ✨ Features
